@@ -1,6 +1,3 @@
 first-violation
 repeat-violation
 retailation
-emergency-procedures
-downed-drone-recovery-checklist
-uc-center-of-excellence-on-unmanned-aircraft-system-safety-uccoe-.unlisted-.unnumbered

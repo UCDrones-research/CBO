@@ -1,8 +1,8 @@
-# Emergency Procedures
+# Emergency Procedures {-}
 
 
 
-## Downed Drone Recovery Checklist 
+## Downed Drone Recovery Checklist {-}
 
 - Verify that all emergency response has concluded
 - Verify that the downed drone will not cause collateral damage through a fire or fluid leak

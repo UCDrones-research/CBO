@@ -190,6 +190,8 @@ The term (ref:SDA) refers to the authority appointed by the University of Califo
 
 ## Temporary Flight Restriction {#TFR .unlisted .unnumbered}
 
+The term (ref:TFR) is a restriction on an area of airspace due to the movement of government VIPs, special events, natural disasters or other unusual events. Drone flying is prohibited in a TFR unless authorized by the agency who issued the TFR.
+
 (ref:TFRlong) [Temporary Flight Restriction](#TFR)
 
 (ref:TFR) [TFR](#TFR)
@@ -230,7 +232,7 @@ The term (ref:UASRequestForm) or (ref:FlightRequest) refers to a documented requ
 
 
 
-## UC Center of Excellence on Unmanned Aircraft System Safety (#UCCOE .unlisted .unnumbered)
+## UC Center of Excellence on Unmanned Aircraft System Safety {#UCCOE .unlisted .unnumbered}
 
 The University of California Center of Excellence on Unmanned Aircraft System Safety provides system-wide expertise, support and training for regulatory compliance, risk management and the safe operation of unmanned aircraft systems (UAS), commonly known as drones, across the University of California system. 
 
