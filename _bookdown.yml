@@ -1,0 +1,16 @@
+book_filename: "CBO"
+new_session: true
+before_chapter_script: _common.R
+delete_merged_file: true
+language:
+  ui:
+    chapter_name: "Section "
+rmd_files: ["index.Rmd",
+            "organization.Rmd",
+            "safetyguidelines.Rmd",
+            "usecases.Rmd",
+            "battery_safety.Rmd",
+            "equipment_safety.Rmd",
+            "emergencies.Rmd",
+            "glossary.Rmd"]
+output_dir: "docs"
