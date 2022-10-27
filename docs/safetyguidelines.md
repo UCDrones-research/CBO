@@ -26,6 +26,38 @@ Here are the 7 general safety rules for the (ref:UCCBOlong).
 2. **No flying carelessly or recklessly**
 
     Example text
+    
+3. **No flying directly above unprotected people or sensitive areas**
+
+    Please make sure that your flying does not put anyone at risk.
+    
+    Sensitive locations include sensitive ecosystems, easily damaged equipment
+    
+4. **Only fly at locations with a clearly defined and visible separation between the drone and any spectators or bystanders**
+
+
+5. **Keep the drone a safe distance from all other persons**
+
+    Keep at least 10 ft away with small drones.  
+    
+    For larger drones, you may need to be 25-50 ft away.
+    
+    Use the following table as a guidelines
+    
+    |Drone Size | Distance |
+    | ---------- | ---------- |
+    | < 0.55 lbs | Safe at all distances |
+    | > 0.55 lbs and < 1 lb | At least 10 ft |
+    | > 1 lb and < 3 lbs | At least 25 ft | 
+    | > 3 lbs and < 7 lbs | At least 40 ft | 
+    | > 7 lbs | At least 50 ft | 
+
+4. **The drone must always be within visual line of sight**
+
+    No flying farther than you can clearly see the drone. You must be able to see the drone at all times.
+
+<img src="images/VLOS_simple.jpg" width="70%" style="display: block; margin: auto;" />
+
 
 
 3. **All flights must be documented**   
@@ -56,11 +88,6 @@ The pilot is an important part of ensuring a safe flight activity.  Under the UC
     
     The Remote Pilot in Command must be designated before and during the flight of the unmanned aircraft. The Remote Pilot in Command is directly responsible for and is the final authority as to the operation of the UAS. The Remote Pilot in Command is responsible for ensuring that the UAS will pose no undue hazard to other people, other aircraft or other property in the event of a loss of control of the aircraft for any reason. The Remote Pilot in Command must ensure that the UAS operation complies with all applicable regulations and policy. The Remote Pilot in Command must have the ability to direct the UAS to ensure compliance with all applicable regulations and policy
 
-4. **The drone must always be within visual line of sight**
-
-    No flying farther than you can clearly see the drone. You must be able to see the drone at all times.
-
-<img src="images/VLOS_simple.jpg" width="70%" style="display: block; margin: auto;" />
 
 
 

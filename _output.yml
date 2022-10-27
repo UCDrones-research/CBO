@@ -6,5 +6,7 @@ bookdown::bs4_book:
     success: "#198754"   # default .rmdimportant = green
     info:    "#0dcaf0"   # default .rmdtip = cyan
     warning: "#ffc107"   # default .rmdwarning = yellow
-  repo: https://github.com/UCDrones-research/CBO
+  repo: 
+    base: https://github.com/UCDrones-research/CBO
+    branch: main
 

@@ -17,6 +17,13 @@ pre code {
   border: none !important;
 }
 
-.book-part{
+
+.sidebar h2{
   font-weight: bold !important;
+  font-size: 1.2rem;
+}
+
+.sidebar li.book-part {
+  font-weight: bold !important;
+  font-size: 1.0rem;
 }

@@ -34,14 +34,11 @@ The grievance procedure provides a mechanism to enforce existing safety rules by
 
 The Systemwide Designated UAS Authority and the UC UAS Advisory Board shall use its judgment in carrying out action.
 
-### First Violation
-Viewpoints of both complainants and accused will be considered. Complainant’s name will be disclosed. A verbal reprimand will be given to the accused by the Safety or Faculty lead, and this will be recorded in the campus UAS records.
+**First Violation:** Viewpoints of both complainants and accused will be considered. Complainant’s name will be disclosed. A verbal reprimand will be given to the accused by the Safety or Faculty lead, and this will be recorded in the campus UAS records.
 
-### Repeat Violation 
-Repeat offences, or blatant disregard for UC UAS policy or campus safety, shall be reported to the campus for disciplinary review under the appropriate policy.
+**Repeat Violation:** Repeat offences, or blatant disregard for UC UAS policy or campus safety, shall be reported to the campus for disciplinary review under the appropriate policy.
 
-### Retailation
-Any member receiving a Grievance, who directs any retaliation action against the person filing said grievance, will be subject to immediate expulsion from the program. This is to include threats, intimidation, physical harm, intentional equipment damage, or any other action deemed to be retaliatory.
+**Retaliation:** Any member receiving a Grievance, who directs any retaliation action against the person filing said grievance, will be subject to immediate expulsion from the program. This is to include threats, intimidation, physical harm, intentional equipment damage, or any other action deemed to be retaliatory.
 
 
 # Campus Management {-}
