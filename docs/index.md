@@ -1,7 +1,7 @@
 --- 
 title: "UC Drones Academic Program"
 author: "UC Center of Excellence on UAS Safety"
-#date: "2022-10-26"
+#date: "2022-10-27"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
